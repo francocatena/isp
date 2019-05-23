@@ -1,0 +1,11 @@
+a[disabled="disabled"] {
+  pointer-events: none;
+}
+
+.has-cursor-pointer {
+  cursor: pointer;
+}
+
+.has-text-centered-vertically {
+  vertical-align: middle !important;
+}
